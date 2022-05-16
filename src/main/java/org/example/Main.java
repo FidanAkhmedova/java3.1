@@ -1,7 +1,5 @@
 package org.example;
-
 import java.util.ArrayList;
-
 public class Main <T>{
     private T obj;
     private Integer[] arr = {1, 2, 4, 5};

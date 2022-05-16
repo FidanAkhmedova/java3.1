@@ -1,5 +1,4 @@
 package org.example;
-
 public class Fruit {
     private double weight = 0;
     public double getWeight() {
