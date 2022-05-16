@@ -42,6 +42,7 @@ public class Main <T>{
         Main<String> num = new Main<>("num");
         num.swap(1, 3);
         num.printArr();
+
     //2
         num.convertToArrayList();
         num.printArrayList();

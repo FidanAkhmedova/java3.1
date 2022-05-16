@@ -47,7 +47,8 @@ public class Box<A extends Fruit> {
     public void printObj(){
         System.out.println("Printing ...");
         for (Fruit f: box) {
-            System.out.println(f.getClass().getName());
+//            System.out.println(f.getClass().getName());
+            System.out.println(f.getWeight());
         }
     }
 }
